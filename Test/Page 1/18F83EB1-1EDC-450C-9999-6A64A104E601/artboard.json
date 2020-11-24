@@ -3,9 +3,9 @@
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
-    "blue": 1,
-    "green": 1,
-    "red": 1
+    "blue": 0.828746629797894,
+    "green": 0.2689896245893439,
+    "red": 0.6679084014312678
   },
   "booleanOperation": -1,
   "clippingMaskMode": 0,
