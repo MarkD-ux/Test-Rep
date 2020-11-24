@@ -1,0 +1,59 @@
+{
+  "_class": "document",
+  "assets": {
+    "_class": "assetCollection",
+    "colorAssets": [
+    ],
+    "colors": [
+    ],
+    "do_objectID": "E296B1C4-0EEE-4F50-AE98-1EB893E81BF3",
+    "exportPresets": [
+    ],
+    "gradientAssets": [
+    ],
+    "gradients": [
+    ],
+    "imageCollection": {
+      "_class": "imageCollection",
+      "images": {
+      }
+    },
+    "images": [
+    ]
+  },
+  "colorSpace": 0,
+  "do_objectID": "3E8B70C4-4804-493E-A800-368F85985A0B",
+  "documentState": {
+    "_class": "documentState"
+  },
+  "fontReferences": [
+  ],
+  "foreignLayerStyles": [
+  ],
+  "foreignSwatches": [
+  ],
+  "foreignSymbols": [
+  ],
+  "foreignTextStyles": [
+  ],
+  "layerSymbols": {
+    "_class": "symbolContainer",
+    "do_objectID": "D019EB59-BAB2-4F1F-9183-BDCB96D53C6E",
+    "objects": [
+    ]
+  },
+  "meta": {
+    "appVersion": "70",
+    "build": 108797,
+    "version": 134
+  },
+  "pages": [
+    "Page 1"
+  ],
+  "sharedSwatches": {
+    "_class": "swatchContainer",
+    "do_objectID": "5176DF61-4371-4E6F-A2C3-CBA1F85F914B",
+    "objects": [
+    ]
+  }
+}
