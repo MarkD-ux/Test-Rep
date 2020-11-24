@@ -27,6 +27,166 @@
     "_class": "documentState"
   },
   "fontReferences": [
+    {
+      "_class": "fontReference",
+      "do_objectID": "1FFB8790-A4BC-40B4-A28A-868F9C8BF660",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Book Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-BookItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "350729B2-0057-45D4-8D69-3C15AE8A9F0C",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold ExtraBold Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-ExtraBoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "39CF78C8-9E6C-4E5F-9BCC-70A58230A993",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Medium.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-Medium"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "3A5F3BEC-5211-4D8F-9964-128272AA83D2",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold ExtraBold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-ExtraBold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "78386F71-5D33-4BF1-92A6-83EF3420DE8B",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Bold.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-Bold"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "7BFCA4B6-DBCA-46E9-9F89-3E5E1806B921",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Regular.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-Regular"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "8F984E4D-7403-47CC-81CA-697421742DBD",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Black.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-Black"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AB4E9A42-87D2-4972-93CB-38BCC350096B",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Medium Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-MediumItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "AEF93D63-FC3A-4A2C-8D24-2AE758C498AA",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold ExtraThin Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-ExtraThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "B7C60F5E-15AC-4296-82CC-5DF39AD0FDE1",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Bold Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-BoldItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BBE52541-DEB1-4DB4-99F8-7964239B4F2F",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold ExtraThin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-ExtraThin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "BD405ECB-8B23-4394-BBBF-2599E857C1EE",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Thin Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-ThinItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "D1532AC7-92B1-4A53-A34C-A09156684087",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Light.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-Light"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E77D0514-2434-4062-A9B6-89827F30AFBB",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Light Italic.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-LightItalic"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "E78EAE8F-6243-47F1-B231-C5E8156539E2",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Thin.otf",
+      "options": 0,
+      "postscriptNames": [
+        "Typold-Thin"
+      ]
+    },
+    {
+      "_class": "fontReference",
+      "do_objectID": "FB94929D-391C-44CC-A76C-C8D50BF12AD4",
+      "fontFamilyName": "Typold",
+      "fontFileName": "The Northern Block Ltd - Typold Book.otf",
+      "options": 2,
+      "postscriptNames": [
+        "Typold-Book"
+      ]
+    }
   ],
   "foreignLayerStyles": [
   ],
